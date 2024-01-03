@@ -1,0 +1,14 @@
+C:\Users\maria\Documents\projeto-decola-tech\bin\Debug\net8.0\projeto-decola-tech.exe
+C:\Users\maria\Documents\projeto-decola-tech\bin\Debug\net8.0\projeto-decola-tech.deps.json
+C:\Users\maria\Documents\projeto-decola-tech\bin\Debug\net8.0\projeto-decola-tech.runtimeconfig.json
+C:\Users\maria\Documents\projeto-decola-tech\bin\Debug\net8.0\projeto-decola-tech.dll
+C:\Users\maria\Documents\projeto-decola-tech\bin\Debug\net8.0\projeto-decola-tech.pdb
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\projeto-decola-tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\projeto-decola-tech.AssemblyInfoInputs.cache
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\projeto-decola-tech.AssemblyInfo.cs
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\projeto-decola-tech.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\projeto-decola-tech.dll
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\refint\projeto-decola-tech.dll
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\projeto-decola-tech.pdb
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\projeto-decola-tech.genruntimeconfig.cache
+C:\Users\maria\Documents\projeto-decola-tech\obj\Debug\net8.0\ref\projeto-decola-tech.dll
